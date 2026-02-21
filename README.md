@@ -57,14 +57,12 @@ ATmega32-Electronic-Voting-Machine/
 ├── README.md
 ├── LICENSE
 │
-├── Code/
-│   └── evm_atmega32.c
-|   └── Team11_code.doc
-│
-├── Proteus_Design/
-│   ├── EVMPilot.DSN
-│   ├── EVMPilot.PDF
-│
-├── Demo/
-│   └── demo_video.mp4
+├── evm_atmega32.c
+├── Team11_code.doc
+├── EVMPilot.DSN
+├── EVMPilot.PDF
+├── demo_video.mp4
+├── EVMPilot.PWI
+|
+
 
